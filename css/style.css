@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    height: 0%;
+    background-image: url(../pic.jpg);
+    background-size: cover;
+}
+.content{
+    margin: 30px;
+    font-family: 'Jim Nightshade', cursive;
+    font-size: 30px;
+    color: #003566;
+}
+.lesson{
+    text-align: center;
+    margin: 30%;
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 40px;
+}
+i{
+    position: relative;
+    left: 95%;
+    top: 50px;
+    width: 10%;
+    color: rgb(58, 58, 148);
+}
